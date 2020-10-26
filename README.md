@@ -8,7 +8,8 @@ Transfer Learning Guides:
 * [Keras Transfer learning & fine-tuning](https://keras.io/guides/transfer_learning/) 
 
 ImageNet Models:
-* [Keras Models](https://github.com/keras-team/keras-applications)
+* [Keras Models Official](https://github.com/keras-team/keras-applications)
+* [Keras Models Enio](https://github.com/EN10/KerasApplications/blob/main/README.md)
 * [TF Hub Models](https://tfhub.dev/s?fine-tunable=yes&module-type=image-feature-vector&tf-version=tf2)
 
 Definitions:
